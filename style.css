@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    font-family: 'Raleway Dots', cursive;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.homeDiv {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -100px;
+  }
+
+  .title {
+      text-align: center;
+      color: white;
+  }
+
+  .enterBtn {
+    display: flex;
+    justify-content: center;
+  }
+
+  .enterBtn button {
+      background-color: black;
+      color: white;
+      border: 1px solid white;
+  }
