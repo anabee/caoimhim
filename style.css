@@ -12,11 +12,7 @@ h3 {
 }
 
 .homeDiv {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    margin-top: -50px;
-    margin-left: -100px;
+    margin-top: 70%;
   }
 
   .title {
