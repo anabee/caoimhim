@@ -12,7 +12,11 @@ h3 {
 }
 
 .homeDiv {
-    margin-top: 70%;
+    /* margin-top: 30%; */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
   }
 
   .title {
